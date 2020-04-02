@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="first.xsl"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="first.xsd">
+	<stu>
+		<id>1</id>
+		<name>cindy</name>
+		<age>23</age>
+		<score>98</score>
+	</stu>
+	<stu>
+		<id>2</id>
+		<name>carey</name>
+		<age>22</age>
+		<score>65</score>
+	</stu>
+	<stu>
+		<id>3</id>
+		<name>lee</name>
+		<age>22</age>
+		<score>87</score>
+	</stu>
+	<stu>
+		<id>4</id>
+		<name>chris</name>
+		<age>21</age>
+		<score>54</score>
+	</stu>
+	<stu>
+		<id>5</id>
+		<name>bruce</name>
+		<age>22</age>
+		<score>92</score>
+	</stu>
+</info>

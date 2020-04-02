@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="second.xsd">
+  <stu type="software" className="Y2T30">
+    <id>2</id>
+    <name>bruce</name>
+    <sex>male</sex>
+  </stu>
+  <stu type="software" className="Y2T30">
+    <id>3</id>
+    <name>Cindy</name>
+    <sex>male</sex>
+  </stu>
+  <stu type="music" className="Y2T30">
+    <id>4</id>
+    <name>Tom</name>
+    <sex>male</sex>
+  </stu>
+  <stu type="music" className="Y2T30">
+    <id>5</id>
+    <name>Yoyo</name>
+    <sex>male</sex>
+  </stu>
+  <stu type="English" className="Y2T30">
+    <id>6</id>
+    <name>Austin</name>
+    <sex>male</sex>
+  </stu>
+  <stu type="software" className="Y2T31">
+    <id>7</id>
+    <name>Kitty</name>
+    <sex>female</sex>
+  </stu>
+  <stu type="software" className="Y2J64">
+    <id>8</id>
+    <name>lucas</name>
+    <sex>male</sex>
+  </stu>
+</info>
+
